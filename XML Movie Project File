@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<Movies>
+	<!--ROOT-->
+	<Movie>
+		<!-- Each Movie is Listed Per Category-->
+		<MoviesName>The Princess Bride</MoviesName>
+		<Genre>
+			<MovieGenre> Fantasy Adventure</MovieGenre>
+		</Genre>
+		<Actors>
+			<Name> Cary Elwes as Westley </Name>
+			<Name> Robin Wright as Buttercup </Name>
+		</Actors>
+		<ProductionCompany>
+			<Name>Act Three Communications</Name>
+		</ProductionCompany>
+		<ReleaseDate>
+			<Date>10/09/1987</Date>
+		</ReleaseDate>
+		<Quantity>
+			<Count>10</Count>
+		</Quantity>
+		<Description>
+			<Plot>While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.</Plot>
+		</Description>
+	</Movie>
+	<Movie>
+		<!-- Each Movie is Listed Per Category-->
+		<MoviesName>Princess Mononoke</MoviesName>
+		<Genre>
+			<MovieGenre>Family Animation</MovieGenre>
+		</Genre>
+		<Actors>
+			<Name> Yôji Matsuda as Ashitaka </Name>
+			<Name> Yuriko Ishida as San </Name>
+		</Actors>
+		<ProductionCompany>
+			<Name>Studio Ghibli</Name>
+		</ProductionCompany>
+		<ReleaseDate>
+			<Date>10/29/1999</Date>
+		</ReleaseDate>
+		<Quantity>
+			<Count>20</Count>
+		</Quantity>
+		<Description>
+			<Plot>On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime..</Plot>
+		</Description>
+	</Movie>
+	<Movie>
+		<!-- Each Movie is Listed Per Category-->
+		<MoviesName>Belle</MoviesName>
+		<Genre>
+			<MovieGenre>Family Animation</MovieGenre>
+		</Genre>
+		<Actors>
+			<Name>Kaho Nakamura as Suzu </Name>
+			<Name> Ryô Narita as Shinobu Histatake </Name>
+		</Actors>
+		<ProductionCompany>
+			<Name>Studio Chizu</Name>
+		</ProductionCompany>
+		<ReleaseDate>
+			<Date>07/16/2021</Date>
+		</ReleaseDate>
+		<Quantity>
+			<Count>15</Count>
+		</Quantity>
+		<Description>
+			<Plot>Suzu is a shy high school student living in a rural village. For years, she has only been a shadow of herself. But when she enters "U", a massive virtual world, she escapes into her online persona as Belle, a globally-beloved singer.</Plot>
+		</Description>
+	</Movie>
+	<Movie>
+		<!-- Each Movie is Listed Per Category-->
+		<MoviesName>Coraline</MoviesName>
+		<Genre>
+			<MovieGenre>Family Animation</MovieGenre>
+		</Genre>
+		<Actors>
+			<Name> Dakota Fanning as Coraline Jones </Name>
+			<Name> Teri Hatcher as Mel Jones </Name>
+		</Actors>
+		<ProductionCompany>
+			<Name>Laika</Name>
+		</ProductionCompany>
+		<ReleaseDate>
+			<Date>02/6/2009</Date>
+		</ReleaseDate>
+		<Quantity>
+			<Count>5</Count>
+		</Quantity>
+		<Description>
+			<Plot>An adventurous 11-year-old girl finds another world that is a strangely idealized version of her frustrating home, but it has sinister secrets.</Plot>
+		</Description>
+	</Movie>
+	<Movie>
+		<MoviesName>Coraline</MoviesName>
+		<MovieGenre>
+			<Genre>Family Animation</Genre>
+		</MovieGenre>
+		<Actors>
+			<Name> Dakota Fanning as Coraline Jones (voice)</Name>
+			<Name>Teri Hatcher as Mel Jones (voice)</Name>
+		</Actors>
+		<ProductionCompany>
+			<Name>Laika</Name>
+		</ProductionCompany>
+		<ReleaseDate>
+			<Date>02/6/2009</Date>
+		</ReleaseDate>
+		<Quantity>
+			<Count>5</Count>
+		</Quantity>
+		<Description>
+			<Plot>An adventurous 11-year-old girl finds another world that is a strangely idealized version of her frustrating home, but it has sinister secrets.</Plot>
+		</Description>
+	</Movie>
+</Movies>
